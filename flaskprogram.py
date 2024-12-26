@@ -8,5 +8,5 @@ def hello():
 	return 'Welcome to kubernets'
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
 	app.run(host="0.0.0.0",port='7000',debug=True)
