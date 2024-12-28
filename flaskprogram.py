@@ -5,7 +5,7 @@ app = Flask(__name__)
 @app.route('/')
 
 def hello():
-	return 'welcomme to jenkins 28_12 day!!!! bye Bhukh lagi heee?? i have only 8 minit'
+	return 'I will meet after the lunch break please wait and update.....'
 
 
 
