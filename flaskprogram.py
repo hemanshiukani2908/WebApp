@@ -5,9 +5,9 @@ app = Flask(__name__)
 @app.route('/')
 
 def hello():
-	return 'Testing......Testing'
+	return 'welcomme to jenkins 28_12'
 
 
 
 if __name__ == '__main__':
-	app.run(host="0.0.0.0",port='7000',debug=True)
+	app.run(host="0.0.0.0",debug=True)
